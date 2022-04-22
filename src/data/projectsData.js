@@ -3,6 +3,7 @@ import four from '../assets/svg/projects/four.svg'
 import five from '../assets/svg/projects/five.svg'
 import seven from '../assets/svg/projects/seven.svg'
 import gi from '../assets/svg/projects/gi.svg'
+import blog from '../assets/svg/projects/blog.svg'
 import conversation from '../assets/svg/projects/conversation.svg'
 
 
@@ -26,6 +27,15 @@ export const projectsData = [
         demo: 'https://cryptic-brook-10508.herokuapp.com/',
         image: contacts
     },
+    {
+        id: 9,
+        projectName: "Developer's Blog",
+        projectDesc: 'A Blog for developers',
+        tags: ['React Js', 'FileBase', 'Node Js'],
+        code: 'https://github.com/ramki45/Developersblog',
+        demo: 'https://developerssblog.netlify.app/',
+        image: blog
+    }, 
  
     {
         id: 4,
@@ -38,15 +48,6 @@ export const projectsData = [
     },
    
    
-    {
-        id: 7,
-        projectName: 'Expense Keeper',
-        projectDesc: 'A MERN Stack Expense Keeper app',
-        tags: ['React', 'Node'],
-        code: 'https://github.com/ramki45/savingkeeper',
-        demo: 'https://blooming-mountain-55200.herokuapp.com/',
-        image: seven
-    },
    
     {
         id: 10,
@@ -57,6 +58,8 @@ export const projectsData = [
         demo: 'https://unique-begonia-2ca0c8.netlify.app/',
         image: gi
     },
+   
+   
     {
         id: 11,
         projectName: "Conversation App - Like Natasha",
@@ -66,6 +69,16 @@ export const projectsData = [
         demo: 'https://convowithnatasha.netlify.app/',
         image: conversation
     },
+
+    {
+        id: 7,
+        projectName: 'Expense Keeper',
+        projectDesc: 'A MERN Stack Expense Keeper app',
+        tags: ['React', 'Node'],
+        code: 'https://github.com/ramki45/savingkeeper',
+        demo: 'https://blooming-mountain-55200.herokuapp.com/',
+        image: seven
+    }
 ]
 
 
