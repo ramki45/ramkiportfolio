@@ -209,7 +209,7 @@ function Navbar() {
                             </NavLink>
                         </Fade>
 
-                        
+                        {/*
                         <Fade left>
                             <NavLink
                                 to='/#skills'
@@ -225,7 +225,7 @@ function Navbar() {
                                 </div>
                             </NavLink>
                         </Fade>
-
+*/}
 
                         <Fade left>
                             <NavLink
