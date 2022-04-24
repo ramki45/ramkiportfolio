@@ -41,7 +41,7 @@ export const projectsData = [
         id: 4,
         projectName: "90's Stories",
         projectDesc: 'User can post stories, image',
-        tags: ['React', 'Redux'],
+        tags: ['React', 'Redux', 'Node JS'],
         code: 'https://github.com/ramki45/90-s-project',
         demo: 'https://hopeful-cori-2fad36.netlify.app/',
         image: four
@@ -74,7 +74,7 @@ export const projectsData = [
         id: 7,
         projectName: 'Expense Keeper',
         projectDesc: 'A MERN Stack Expense Keeper app',
-        tags: ['React', 'Node'],
+        tags: ['React', 'Node Js', 'Mongo Db'],
         code: 'https://github.com/ramki45/savingkeeper',
         demo: 'https://blooming-mountain-55200.herokuapp.com/',
         image: seven
