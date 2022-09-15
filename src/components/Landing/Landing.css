@@ -17,9 +17,9 @@
     --img-size: 360px;
     position: absolute;
     left: 35%;
-    transform: translateX(-30%);
-    width: var(--img-size);
-    height: var(--img-size);
+    transform: translateX(-50%);
+    width: 100px;
+    height: 270px;
     object-fit: cover;
     border-radius: 50%;
     box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.2);
